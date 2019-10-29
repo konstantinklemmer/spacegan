@@ -1,9 +1,10 @@
 # SpaceGAN - A generative adverserial net for geospatial point data
 
 This repository provides complementary code and data for the paper "Augmenting Correlation Structures in Spatial Data Using Deep Generative Models" ([arXiv:1905.09796](https://arxiv.org/abs/1905.09796)).
+![](https://raw.githubusercontent.com/konstantinklemmer/spacegan/master/img/img1.png)![](https://raw.githubusercontent.com/konstantinklemmer/spacegan/master/img/img2.png)
 
 *SpaceGAN* applies a conditional GAN (CGAN) with neighbourhood conditioning to learn local spatial autocorrelation structures.
-![alt-text-1](https://raw.githubusercontent.com/konstantinklemmer/spacegan/master/img/img2.png "title-1") ![alt-text-2](https://raw.githubusercontent.com/konstantinklemmer/spacegan/master/img/img3.png "title-2")
+![](https://raw.githubusercontent.com/konstantinklemmer/spacegan/master/img/img3.png)
 
 ## Structure
 
