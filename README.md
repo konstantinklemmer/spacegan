@@ -17,7 +17,7 @@ The `src` folder contains the raw *SpaceGAN* codebase and utility functions. The
 However we recommend to try out *SpaceGAN* using the interactive notebooks provided in the main folder. These support Google Colab and can be run here:
 * [Experiment_01_Toy1](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_01_Toy1.ipynb)
 * [Experiment_02_Toy2](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_02_Toy2.ipynb)
-* [Experiment_02_CaliHousing](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_02_CaliHousing.ipynb)
+* [Experiment_03_CaliHousing](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_03_CaliHousing.ipynb)
 
 ## Citation
 
