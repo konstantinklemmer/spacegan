@@ -17,12 +17,12 @@ The `src` folder contains the raw *SpaceGAN* codebase and utility functions. The
 However we recommend to try out *SpaceGAN* using the interactive notebooks provided in the main folder. These support Google Colab and can be run here:
 
 **(1) SpaceGAN with geospatial data**
-* [Experiment_01_Toy1](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_01_Toy1.ipynb)
-* [Experiment_02_Toy2](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_02_Toy2.ipynb)
-* [Experiment_03_CaliHousing](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_03_CaliHousing.ipynb)
+* Experiment_01_Toy1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_01_Toy1.ipynb)
+* Experiment_02_Toy2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_02_Toy2.ipynb)
+* Experiment_03_CaliHousing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_03_CaliHousing.ipynb)
 
 **(2) MIE selection**
-* [Experiment_04_MIE_CGAN_MNIST](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_04_MIE_CGAN_MNIST.ipynb)
+* Experiment_04_MIE_CGAN_MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/konstantinklemmer/spacegan/blob/master/Example_04_MIE_CGAN_MNIST.ipynb)
 
 ## Citation
 
