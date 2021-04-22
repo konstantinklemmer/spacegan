@@ -86,9 +86,9 @@ def compute_metrics(target, cond_input, prob_config, check_config, coord_input, 
             print("Evaluating using metric " + pf)
             for i in list(spacegan_dict.keys()):
                 if pf in ["MIE", "MIEPs"]:
-                    df_pred_agg_metrics.loc[i, pf] = perf_metrics_dict[pf](df_agg_pred["avg"][[i]].values, target, wdist)
+                    df_pred_agg_metrics.loc[i, pf] = perf_metrics_dict[pf](np.array(df_agg_pred["avg"][[i]].values, dtype="float64"), target, wdist)
                 else:
-                    df_pred_agg_metrics.loc[i, pf] = perf_metrics_dict[pf](df_agg_pred["avg"][[i]].values, target)
+                    df_pred_agg_metrics.loc[i, pf] = perf_metrics_dict[pf](np.array(df_agg_pred["avg"][[i]].values, dtype="float64"), target)
                 print("Checkpoint " + i, end="\r")
 
     # export results
